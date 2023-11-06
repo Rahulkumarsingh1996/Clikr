@@ -5,7 +5,7 @@ const Navbar = () => {
     <>
     <div className="container">
         <div className="row">
-                <div className="col-md-4">Rissta</div>
+                <div className="col-md-4">Clikr</div>
                 <div className="col-md-2">Home</div>
                 <div className="col-md-2">About</div>
                 <div className="col-md-4">Contact</div>
