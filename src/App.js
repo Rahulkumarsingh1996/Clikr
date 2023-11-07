@@ -1,9 +1,9 @@
 import React from "react";
-import Dashboard from "./Screen/Dashboard/Dashboard";
+import StackNavigation from "./Screen/AllRoutes/StackNavigation";
 const App = () => {
   return (
     <>
-      <Dashboard />
+      <StackNavigation />
     </>
   );
 };
