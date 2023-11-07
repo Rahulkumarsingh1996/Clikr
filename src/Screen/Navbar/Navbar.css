@@ -5,9 +5,12 @@
 }
 .menu-item {
     font-size: var(--normal-font-size);
-    font-weight: var(--font-bold);
+    font-weight: var(--font-medium);
     cursor: pointer;
 }
 .menu-box{
-    line-height: 3.5;
+    line-height: 4;
+}
+i{
+    font-size: var(--h3-font-size);
 }
