@@ -1,0 +1,13 @@
+.navbar {
+    /* background-color: var(--Clikr_BlackColor); */
+    color: var(--Clikr_BlackColor);
+    height: 4.3rem;
+}
+.menu-item {
+    font-size: var(--normal-font-size);
+    font-weight: var(--font-bold);
+    cursor: pointer;
+}
+.menu-box{
+    line-height: 3.5;
+}
