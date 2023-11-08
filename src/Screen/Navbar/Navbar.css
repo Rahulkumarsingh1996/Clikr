@@ -9,8 +9,13 @@
     cursor: pointer;
 }
 .menu-box{
-    line-height: 4;
+    line-height: 2;
 }
 i{
     font-size: var(--h3-font-size);
+}
+.option-menu{
+    color: var(--Clikr_BlackColor);
+    text-decoration: none;
+
 }
