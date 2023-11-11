@@ -9,23 +9,23 @@ const Navbar = () => {
           <div className="col-md-2 menu-item">Clikr</div>
           <div className="col-md-2 menu-item m-0 p-0 d-flex align-items-center gap-2">
             {" "}
-            <i class="fa-solid fa-house"></i>Home
+            Home
           </div>
           <div className="col-md-2 menu-item m-0 p-0 d-flex align-items-center gap-2">
             {" "}
-            <i class="fa-solid fa-magnifying-glass"></i>Search
+            Search
           </div>
           <div className="col-md-2 menu-item m-0 p-0 d-flex align-items-center gap-2">
             {" "}
-            <i class="fa-solid fa-circle-play"></i>Reel
+           Reel
           </div>
           <div className="col-md-2 menu-item m-0 p-0 d-flex align-items-center gap-2">
             {" "}
-            <i class="fa-solid fa-comment"></i>Message
+            Message
           </div>
           <div className="col-md-2 menu-item m-0 p-0 d-flex align-items-center gap-2">
             {" "}
-            <i class="fa-solid fa-user"></i>Profile
+Profile
           </div>
         </div>
       </div>

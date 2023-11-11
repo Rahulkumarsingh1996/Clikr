@@ -1,9 +1,9 @@
 import React from 'react'
-import Navbar from '../Navbar/Navbar'
+import Navigate from '../AllRoutes/Navigate'
 const Dashboard = () => {
   return (
     <>
-    <Navbar />
+    <Navigate />
     </>
   )
 }
