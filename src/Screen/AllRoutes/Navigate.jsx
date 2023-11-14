@@ -1,6 +1,6 @@
 import React from "react";
 import { Outlet, Link } from "react-router-dom";
-import "../Navbar/Navbar.css";
+import '../AllRoutes/Navigate.css'
 const Navigate = () => {
   return (
     <>

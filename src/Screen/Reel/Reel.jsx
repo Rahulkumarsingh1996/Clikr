@@ -2,7 +2,7 @@ import React from 'react'
 
 const Reel = () => {
   return (
-    <div>Reel</div>
+    <div className='bind_menu_data'>Reel</div>
   )
 }
 

@@ -10,6 +10,7 @@ import Navigate from "./Navigate";
 const StackNavigation = () => {
   return (
     <div>
+      
       <BrowserRouter>
         <Routes>
           <Route path="/" element={<Navigate />}>

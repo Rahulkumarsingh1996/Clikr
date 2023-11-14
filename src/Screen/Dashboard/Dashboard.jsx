@@ -1,9 +1,9 @@
 import React from 'react'
-import Navigate from '../AllRoutes/Navigate'
+
 const Dashboard = () => {
   return (
     <>
-    <Navigate />
+    <div className='bind_menu_data'>home</div>
     </>
   )
 }

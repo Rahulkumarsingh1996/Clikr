@@ -34,5 +34,11 @@
      --Clikr_WhiteColor: #FFFFFF;
      --Clikr_BlackColor: #000000;
 
+     
+     /* ---------------- sidebar bind content here -------------------- */
+     .bind_menu_data{
+      margin-left: 20%;
+      padding-top: 8%;
+  }
 
 }
